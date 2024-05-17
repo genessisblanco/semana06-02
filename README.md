@@ -13,4 +13,4 @@ git status //verificar el estado de  tus archivos (valida si hay cambios)
 
 git add .  //guarda cambio de forma loca
 
-git comit -m "comentario en relacion a los cambios agregados"
+git commit -m "comentario en relacion a los cambios agregados"
